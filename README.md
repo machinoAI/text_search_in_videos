@@ -13,4 +13,4 @@
 
 - **Accessible Code:** The code for this project is available upon request, allowing anyone to access and utilize this powerful tool.
 
-Overall, "Text Search in Videos" is a groundbreaking project that offers a new level of efficiency and accuracy in video text search. With its advanced machine learning and innovative technology, this project is sure to revolutionize the way we search for information within videos. If you're interested in learning more or accessing the code for this project, feel free to reach out to me.
+Overall, "Text Search in Videos" is a groundbreaking project that offers a new level of efficiency and accuracy in video text search. With its advanced machine learning and innovative technology, this project is sure to revolutionize the way we search for information within videos.
